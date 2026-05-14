@@ -92,3 +92,9 @@
 
 @layer utilities {
 }
+
+/* #mobile-menu {
+  & > div:nth-child(2) {
+    @apply bg-yellow-300!;
+  }
+} */
